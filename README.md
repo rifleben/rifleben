@@ -1,6 +1,6 @@
 ### Howdy 👋, I'm Benny!
 
-🔭 I’m currently working on my finishing my Junior year at Oregon State University (Spring '24 Grad)
+🔭 I’m currently working on finishing my Junior year at Oregon State University (Spring '24 Grad)
 
 🌱 I’m currently learning how to better use Python to automate tasks and creating UIs to work with my programs
 
