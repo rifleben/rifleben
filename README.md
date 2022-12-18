@@ -9,4 +9,4 @@
 👀 Looking For: My first full-time role, or for internships for Winter '23, Spring '23, Fall '23, Winter '24.
 
 
-![](https://media3.giphy.com/media/RiykPw9tgdOylwFgUe/giphy.gif)
+![](https://github.com/rifleben/forage-lyft-starter-repo/blob/main/test/lfjs.gif)
