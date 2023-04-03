@@ -9,4 +9,8 @@
 👀 Looking For: My first full-time role, or for internships for Spring '23, Fall '23, Winter '24.
 
 
-![](https://github.com/rifleben/forage-lyft-starter-repo/blob/main/test/lfjs.gif)
+![]()
+
+<p align="center">
+  <img src="https://github.com/rifleben/forage-lyft-starter-repo/blob/main/test/lfjs.gif" alt="Looking for a job!" width="300" height="300" style="display: block; margin: 0 auto;">
+</p>
