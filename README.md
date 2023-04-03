@@ -2,7 +2,7 @@
 
 🔭 I’m currently working on finishing my Senior year at Oregon State University (Spring '24 Grad)
 
-🌱 I’m currently learning how to better use Python to automate tasks and creating UIs to work with my programs
+🌱 After spending time learning Python for web development, I am now learning more about Express, EJS, Node, and JS as a whole.
 
 📫 How to reach me: You can find me on [LinkedIn](https://www.linkedin.com/in/benjaminrifleman/)!
 
