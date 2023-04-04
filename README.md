@@ -6,7 +6,7 @@
 
 📫 How to reach me: You can find me on [LinkedIn](https://www.linkedin.com/in/benjaminrifleman/)!
 
-👀 Looking For: My first full-time role, or for internships for Spring '23, Fall '23, Winter '24.
+👀 Looking For: My first full-time role, or for internships for Fall '23, or Winter '24.
 
 
 ![]()
