@@ -8,9 +8,14 @@
 
 👀 Looking For: My first full-time role, or for internships for Fall '23, or Winter '24.
 
+<p align="left">
+<img src="https://github-readme-stats.vercel.app/api?username=rifleben&show_icons=true&theme=dark">
+<br/>
+<p>
 
-![]()
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rifleben)
 
+  
 <p align="center">
   <img src="https://github.com/rifleben/forage-lyft-starter-repo/blob/main/test/lfjs.gif" alt="Looking for a job!" width="300" height="300" style="display: block; margin: 0 auto;">
 </p>
