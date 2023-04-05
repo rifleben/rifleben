@@ -10,3 +10,5 @@
 
 <img src="https://github-readme-stats.vercel.app/api?username=rifleben&show_icons=true&theme=dark">
 
+![Metrics](https://metrics.lecoq.io/rifleben?template=classic&base.header=0&gists=1&lines=1&config.timezone=America%2FToront)
+
