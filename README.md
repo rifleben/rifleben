@@ -1,6 +1,8 @@
 ## 🙋‍♂️ About Me
 
-- 💻 I’m currently working on finishing my Senior year at Oregon State University (Spring '24 Grad)
+- 👨‍🎓 I’m currently working on finishing my Senior year at Oregon State University (Spring '24 Grad)
+
+- 👨‍💻 I am an incoming (Jun '23 - Sept '23) Software Engineer - Intern at Bill.com
 
 - 🌱 After spending time learning Python for Algos and basic web-dev, I am now learning more about Express, EJS, Node, and JS as a whole.
 
