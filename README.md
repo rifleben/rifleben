@@ -2,9 +2,9 @@
 
 - 👨‍🎓 I’m currently working on finishing my Senior year at Oregon State University (Spring '24 Grad)
 
-- 👨‍💻 I am an incoming (Jun '23 - Sept '23) Software Engineer - Intern at Bill.com
+- 👨‍💻 I am a Software Engineer - Intern at [BILL](https://www.bill.com/).
 
-- 🌱 After spending time learning Python for Algos and basic web-dev, I am now learning more about Express, EJS, Node, and JS as a whole.
+- 🌱 Currently spending time learning more about WebApps that use React.
 
 - 📫 How to reach me: You can find me on [LinkedIn](https://www.linkedin.com/in/benjaminrifleman/)!
 
