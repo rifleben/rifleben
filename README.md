@@ -1,9 +1,9 @@
 ## 🙋‍♂️ About Me
 
-- 👨‍🎓 I’m currently working on finishing my Senior year at Oregon State University (Spring '24 Grad)
+- 👨‍🎓 I’m a graduate of Oregon State University, where I obtained my BS in Computer Science.
 
-- 👨‍💻 I am a Software Engineer - Intern at [BILL](https://www.bill.com/).
+- 👨‍💻 I am a Software Engineer at [Apple](www.apple.com), where I work primarily with "Backend" technologies.
 
-- 🌱 Currently learning how to use AWS resources to build applications that scale seamlessly.
+- 🌱 Currently working on asking the right questions to be able to implement the best solutions!
 
-- 📫 How to reach me: You can find me on [LinkedIn](https://www.linkedin.com/in/benjaminrifleman/)!
+- 📫 How to reach me: You can find me on [LinkedIn](https://www.linkedin.com/in/benjaminrifleman/). Looking forward to chatting.
